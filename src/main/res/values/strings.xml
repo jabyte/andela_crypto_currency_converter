@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CRYPTO CURRENCY CONVERTER</string>
+    <string name="tab_text_1">MY CARDS</string>
+    <string name="tab_text_2">CONVERT CURRENCY</string>
+    <string name="action_settings">Settings</string>
+    <string name="conversion_title">NEW CONVERSION</string>
+    <string name="from_currency_label">FROM:</string>
+    <string name="to_currency_label">TO:</string>
+    <string name="amount_label">AMOUNT:</string>
+    <string name="covert_button_label">CONVERT</string>
+    <string name="save_button_label">SAVE CARD</string>
+
+    <string-array name="major_currencies">
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>CNH</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>MXN</item>
+        <item>NGN</item>
+        <item>NOK</item>
+        <item>NZD</item>
+        <item>PLN</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>TRY</item>
+        <item>USD</item>
+        <item>ZAR</item>
+    </string-array>
+
+    <string-array name="crypto_currencies">
+        <item>BTC</item>
+        <item>ETH</item>
+        <item>LTC</item>
+    </string-array>
+</resources>

@@ -1,0 +1,4 @@
+#Sun Nov 05 09:00:56 EST 2017
+base.0=/home/jabyte/Projects/CurrencyConverter/app/build/intermediates/transforms/dexMerger/debug/24
+renamed.0=classes.dex
+file.0=/home/jabyte/Projects/CurrencyConverter/app/build/intermediates/transforms/dexMerger/debug/24/classes.dex

@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.volley:volley:1.0.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/eb604241bf9996cd2b5abbfd015f8d84/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/28847a4d05499a4b064d0379a8ab7afa/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9739e05f620aa3923f50e1d490a694f3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jabyte/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fb27634bebd4d72f36bf56d486fb89c3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/918401a4817e541e092d794387d07b13/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ab141ae228ad00702c4a24fb90987353/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/cd1185ed0a451170f0c6f082c140016b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/a8834699dca5d1307a9170d56a6d0665/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b29673fb8320fbcb7701edae228d5610/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f10ee761596e0cd23752212428fa17e1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4882637864b348334ab9ef8b905de598/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/629fb6264f43053476bd7f0c8703e7c9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4789a1f9a49ec4c3556c744b01f464fd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d8cefbf630060801b500164d05cfe0bc/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/10865cfe102b10d54806e0116b29659d/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml
+		ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml
+		ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:5:5-83
+	android:name
+		ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.volley:volley:1.0.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/eb604241bf9996cd2b5abbfd015f8d84/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/eb604241bf9996cd2b5abbfd015f8d84/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/28847a4d05499a4b064d0379a8ab7afa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/28847a4d05499a4b064d0379a8ab7afa/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9739e05f620aa3923f50e1d490a694f3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9739e05f620aa3923f50e1d490a694f3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jabyte/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fb27634bebd4d72f36bf56d486fb89c3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jabyte/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fb27634bebd4d72f36bf56d486fb89c3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/918401a4817e541e092d794387d07b13/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/918401a4817e541e092d794387d07b13/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ab141ae228ad00702c4a24fb90987353/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ab141ae228ad00702c4a24fb90987353/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/cd1185ed0a451170f0c6f082c140016b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/cd1185ed0a451170f0c6f082c140016b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/a8834699dca5d1307a9170d56a6d0665/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/a8834699dca5d1307a9170d56a6d0665/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b29673fb8320fbcb7701edae228d5610/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b29673fb8320fbcb7701edae228d5610/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f10ee761596e0cd23752212428fa17e1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f10ee761596e0cd23752212428fa17e1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4882637864b348334ab9ef8b905de598/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4882637864b348334ab9ef8b905de598/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/629fb6264f43053476bd7f0c8703e7c9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/629fb6264f43053476bd7f0c8703e7c9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4789a1f9a49ec4c3556c744b01f464fd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4789a1f9a49ec4c3556c744b01f464fd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d8cefbf630060801b500164d05cfe0bc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d8cefbf630060801b500164d05cfe0bc/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/10865cfe102b10d54806e0116b29659d/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/10865cfe102b10d54806e0116b29659d/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.silicsystems.currencyconverter.MainActivity
+ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml
+INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.volley:volley:1.0.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/eb604241bf9996cd2b5abbfd015f8d84/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/volley-1.0.0.aar/eb604241bf9996cd2b5abbfd015f8d84/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/28847a4d05499a4b064d0379a8ab7afa/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/28847a4d05499a4b064d0379a8ab7afa/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9739e05f620aa3923f50e1d490a694f3/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9739e05f620aa3923f50e1d490a694f3/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jabyte/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fb27634bebd4d72f36bf56d486fb89c3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jabyte/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/fb27634bebd4d72f36bf56d486fb89c3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/918401a4817e541e092d794387d07b13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/918401a4817e541e092d794387d07b13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ab141ae228ad00702c4a24fb90987353/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ab141ae228ad00702c4a24fb90987353/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/cd1185ed0a451170f0c6f082c140016b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/cd1185ed0a451170f0c6f082c140016b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/a8834699dca5d1307a9170d56a6d0665/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/a8834699dca5d1307a9170d56a6d0665/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b29673fb8320fbcb7701edae228d5610/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b29673fb8320fbcb7701edae228d5610/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f10ee761596e0cd23752212428fa17e1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f10ee761596e0cd23752212428fa17e1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4882637864b348334ab9ef8b905de598/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4882637864b348334ab9ef8b905de598/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/629fb6264f43053476bd7f0c8703e7c9/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/629fb6264f43053476bd7f0c8703e7c9/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4789a1f9a49ec4c3556c744b01f464fd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4789a1f9a49ec4c3556c744b01f464fd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d8cefbf630060801b500164d05cfe0bc/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d8cefbf630060801b500164d05cfe0bc/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/10865cfe102b10d54806e0116b29659d/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/10865cfe102b10d54806e0116b29659d/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml
+INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/28847a4d05499a4b064d0379a8ab7afa/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml
+		ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml
+		ADDED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jabyte/Projects/CurrencyConverter/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/28847a4d05499a4b064d0379a8ab7afa/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9739e05f620aa3923f50e1d490a694f3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/9739e05f620aa3923f50e1d490a694f3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/918401a4817e541e092d794387d07b13/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/918401a4817e541e092d794387d07b13/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ab141ae228ad00702c4a24fb90987353/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/ab141ae228ad00702c4a24fb90987353/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/cd1185ed0a451170f0c6f082c140016b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/cd1185ed0a451170f0c6f082c140016b/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/a8834699dca5d1307a9170d56a6d0665/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/a8834699dca5d1307a9170d56a6d0665/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b29673fb8320fbcb7701edae228d5610/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b29673fb8320fbcb7701edae228d5610/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f10ee761596e0cd23752212428fa17e1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f10ee761596e0cd23752212428fa17e1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4882637864b348334ab9ef8b905de598/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/4882637864b348334ab9ef8b905de598/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/629fb6264f43053476bd7f0c8703e7c9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/629fb6264f43053476bd7f0c8703e7c9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4789a1f9a49ec4c3556c744b01f464fd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/4789a1f9a49ec4c3556c744b01f464fd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d8cefbf630060801b500164d05cfe0bc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d8cefbf630060801b500164d05cfe0bc/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/28847a4d05499a4b064d0379a8ab7afa/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/28847a4d05499a4b064d0379a8ab7afa/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/10865cfe102b10d54806e0116b29659d/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/10865cfe102b10d54806e0116b29659d/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/jabyte/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/10865cfe102b10d54806e0116b29659d/AndroidManifest.xml:26:13-58
